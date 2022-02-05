@@ -15,7 +15,7 @@ export default function Users() {
             <h1>Who is Using This?</h1>
             <p>This project is used by many folks</p>
           </div>
-          <div className="row">
+          <div className="row ">
             {users && users.length>0&& users.map((user) => (
               <a
                 className="col-2"
