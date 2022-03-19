@@ -9,7 +9,7 @@ export default function Home() {
   const { siteConfig } = useDocusaurusContext();
   return (
     <Layout
-      title="React TypeScript Cheatsheet"
+      title="React TypeScript Cheatsheets"
       permalink="/"
       description="React TypeScript Cheatsheets"
     >
