@@ -7,6 +7,7 @@ import Layout from "@theme/Layout";
 const SupportLink = ({ title, content }) => (
   <div>
     <h2>{title}</h2>
+    <div>help</div>
     <div>{content}</div>
   </div>
 );
