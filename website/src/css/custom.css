@@ -6,11 +6,12 @@
   --ifm-color-primary-light: #159ae8;
   --ifm-color-primary-lighter: #1e9feb;
   --ifm-color-primary-lightest: #3dacee;
+
 }
 
 .navbar__inner {
   max-width: 1400px;
-  margin: 0 auto;
+  margin: 0 auto ;
 }
 
 .footer__logo {
