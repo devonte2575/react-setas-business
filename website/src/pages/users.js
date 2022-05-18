@@ -41,7 +41,7 @@ export default function Users() {
             href={addUserUrl}
             className="button button--lg button--outline button--primary"
           >
-            Add your company
+            Add your company...
           </a>
         </div>
       </div>
